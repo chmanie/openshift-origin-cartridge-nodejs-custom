@@ -43,7 +43,3 @@ fi
 if [[ $new_cart_version == "0.0.19" ]]; then
   update-configuration $nodejs_version
 fi
-
-if [[ $new_cart_version == "0.0.20" ]]; then
-  update-configuration $nodejs_version
-fi
