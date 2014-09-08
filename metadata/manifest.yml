@@ -6,6 +6,7 @@ Description: Node.js is a platform built on Chrome's JavaScript runtime for easi
   building fast, scalable network applications. Node.js is perfect for data-intensive
   real-time applications that run across distributed devices.
 Version: '0.10'
+Source-Url: git@github.com:chmanie/openshift-origin-cartridge-nodejs-custom.git
 Versions:
 - '0.10'
 - '0.6'

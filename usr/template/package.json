@@ -16,12 +16,12 @@
   "homepage": "http://www.openshift.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openshift/origin-server"
+    "url": "https://github.com/chmanie/openshift-origin-cartridge-nodejs-custom"
   },
 
   "engines": {
-    "node": ">= 0.6.0",
-    "npm": ">= 1.0.0"
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
   },
 
   "dependencies": {
